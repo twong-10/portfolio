@@ -66,7 +66,7 @@ const [showAnalysis, setShowAnalysis] = useState(false);
                         </h2>
 
                         <p className='font-medium text-dark dark:text-light md:text-sm'>
-                                Built during my Teaching English as Second Language Practicum, this lesson challenges Japanese exchange students’ spoken language skills in the realm of job interviews and the career search process. Since it was created, I have further developed upon it by using and making connections with instructional design models, as well as incorporating feedback from my professor after an observed lesson, resulting in the below iteration.
+                                Built during my Teaching English as Second Language Practicum, this lesson challenges Japanese exchange students&apos; spoken language skills in the realm of job interviews and the career search process. Since it was created, I have further developed upon it by using and making connections with instructional design models, as well as incorporating feedback from my professor after an observed lesson, resulting in the below iteration.
                             </p>
 
                             <p className='my-4 font-medium text-dark dark:text-light md:text-sm'>
