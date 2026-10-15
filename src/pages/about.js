@@ -45,7 +45,7 @@ const about = () => {
             <div className='grid w-full grid-cols-8 gap-16 sm:gap-8'>
                 <div className='col-span-3 flex flex-col items-start justify-start 2xl:order-2 2xl:col-span-8'>
                     <h2 className='mb-4 text-lg font-bold uppercase text-primary/75 dark:text-primaryDark/75'>Biography</h2>
-                    <p className='font-medium mb-4'>Hello! I'm Tia, and I design lessons, resources, and training materials for adult learners, whether in academic or corporate environments. My most recent projects have revolved around ESL lessons and administrative training. I believe everyone should be able to access education, and although the learning process can be challenging at times, it should be approachable and students should feel supported. Using my experience in education, content design, and project management, I love helping others achieve their learning goals.   
+                    <p className='font-medium mb-4'>Hello! I&apos;m Tia, and I design lessons, resources, and training materials for adult learners, whether in academic or corporate environments. My most recent projects have revolved around ESL lessons and administrative training. I believe everyone should be able to access education, and although the learning process can be challenging at times, it should be approachable and students should feel supported. Using my experience in education, content design, and project management, I love helping others achieve their learning goals.   
                     </p>
                     <p className='font-medium'>During my teaching practicum, I developed and taught lesson plans, as well as monitored and facilitated class discussions both in small and large groups. After teaching the <Link
   href="/project-1"
@@ -56,7 +56,7 @@ const about = () => {
                     </p> 
                     <p className='my-4 font-medium'>In my personal time, I enjoy playing multiplayer video games, creative writing, and indoor bouldering with friends. I also love language learning myself, and am currently learning Mandarin, French, and Cantonese.
                     </p> 
-                    <p className='font-medium'>I am always seeking opportunities in learning experience design roles and curriculum development. If you’re interested in learning more about my projects and what I can offer to support your vision, feel free to reach out to me!
+                    <p className='font-medium'>I am always seeking opportunities in learning experience design roles and curriculum development. If you&apos;re interested in learning more about my projects and what I can offer to support your vision, feel free to reach out to me!
                     </p>
                 </div>
 
