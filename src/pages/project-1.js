@@ -6,6 +6,7 @@ import project1 from "../../public/images/projects/esl-profile.png"
 import project1a from "../../public/images/projects/esl-profile-a.png"
 import project1b from "../../public/images/projects/esl-profile-b.png"
 import project1c from "../../public/images/projects/esl-profile-c.png"
+import project1d from "../../public/images/projects/esl-profile-d.png"
 import lessonplan1a from "../../public/images/projects/lessonplan1a.png"
 import lessonplan1b from "../../public/images/projects/lessonplan1b.png"
 import lessonplan1c from "../../public/images/projects/lessonplan1c.png"
@@ -28,7 +29,7 @@ const [showAnalysis, setShowAnalysis] = useState(false);
                         className='mb-16 lg:!text-7xl md:!text-6xl sm:!text-4xl sm:mb-8'
                     />
 
-                    <div className="grid grid-cols-3 gap-8 mb-10 lg:grid-cols-1">
+                    <div className="grid grid-cols-4 gap-8 mb-10 lg:grid-cols-1">
 
                         <div className='relative rounded-2xl border-2 border-solid border-dark bg-light p-4 dark:bg-dark dark:border-light'>
                             <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[102%] rounded-[2rem] bg-dark dark:bg-light' />
@@ -56,6 +57,16 @@ const [showAnalysis, setShowAnalysis] = useState(false);
                             <Image
                                 src={project1c}
                                 alt="Project Preview 3"
+                                className='w-full h-auto rounded'
+                            />
+                        </div>
+
+                        <div className='relative rounded-2xl border-2 border-solid border-dark bg-light p-4 dark:bg-dark dark:border-light'>
+                            <div className='absolute top-0 -right-3 -z-10 w-[102%] h-[102%] rounded-[2rem] bg-dark dark:bg-light' />
+
+                            <Image
+                                src={project1d}
+                                alt="Project Preview 4"
                                 className='w-full h-auto rounded'
                             />
                         </div>
